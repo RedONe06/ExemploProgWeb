@@ -1,0 +1,2 @@
+para a abertura do server deve-se clicar com o botão direito sobre o index e abrir com o live server
+span é uma tag curinga
