@@ -1,2 +1,21 @@
 para a abertura do server deve-se clicar com o botão direito sobre o index e abrir com o live server
 span é uma tag curinga
+class(.) = compartilha configurações com os elementos dentro
+id (#)= identifica os elementos
+
+exemplo:
+h1.titulo*6
+= <h1 class="titulo"></h1>
+6x
+
+h1#titulo*5
+= <h1 id="titulo"></h1>
+5x
+
+trabalhar com display flex
+começar pela estrutura de divs
+pode criar mais de um arquivo para dividir os css's
+
+w3school para tutoriais
+origami para documentação de display
+
