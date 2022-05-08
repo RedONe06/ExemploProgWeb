@@ -3,30 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 h1{
     padding-top: 10px;
     font-size: xx-large;
     text-align: center;
     font-weight: bold;
 }
-
-h2{
-}
-
 h3{
     color: rgb(85, 85, 85);
 
 }
-
 a:link{
     color: rgb(100, 166, 224);
 }
-
 a:hover{
     color: rgb(141, 132, 121);
 }
-
 a:visited{
     color: rgb(17, 122, 122);
 }
@@ -36,7 +28,6 @@ nav{
     background-color: rgb(253, 152, 0);
     margin: 10px auto;
 }
-
 nav p{
     text-align: center;
     color:aqua;
@@ -44,11 +35,9 @@ nav p{
     padding: 0px 15px 0px 15px;
     font-weight: bold;
 }
-
 nav p span{
     padding: 0px 10px 0px 10px;
 }
-
 body{
     background-color: rgb(238, 238, 238);
     color:black;
@@ -57,7 +46,6 @@ body{
     width: 800px;
     border: 4px solid black;
 }
-
 .classContainer{
     display: flex;
     flex-direction: row;
@@ -68,20 +56,16 @@ body{
     padding-top: 30px;
     margin-left: 50px;
 }
-
 #idInformacoes{
     padding: 30px;
     border: 1px solid black;
     width: 350px;
     margin: 10px 0px 50px 50px;
 }
-
 main figure{
     padding-right: 30px;
 }
-
 img{
-   /* margin-left: 300px;*/
     width: 50px;
     height: 50px; 
 }
